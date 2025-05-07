@@ -13,7 +13,17 @@
 
 ## Demo:
 
-### 1. Home page - Builds  
+### Feature highlights:
+- **Test-to-code Mapping** – See exactly how deeply and broadly tests interact with your application
+- **Gap Analysis** – View insights built from data across all testing environments and stages  
+- **Test Impact Analysis** – Get test recommendations for faster pipeline execution  
+- **Risk Tracking** – Understand changes in a specific build and across versions  
+- **Smart Coverage** – Access metrics aggregated from multiple versions  
+- **Pull Request/Merge Request Reports** – Bring testing metrics closer to developers  
+- **Trend Analysis** – Track how your testing effectiveness evolves over time  
+- **Broad Test Type Support** – Collect metrics for any test type, including unit, API, E2E, and manual tests  
+
+### 1. Home page - Builds
 
 1. Open Metabase
    - [direct link](http://10.68.55.110:8095/)
